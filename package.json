@@ -5,7 +5,7 @@
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/oclif/command/issues",
   "dependencies": {
-    "@oclif/config": "^1.12.10",
+    "@oclif/config": "github:earksiinni/config#ersin/prod-dependencies-build",
     "@oclif/errors": "^1.2.2",
     "@oclif/parser": "^3.7.3",
     "debug": "^4.1.1",
